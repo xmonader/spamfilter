@@ -1,0 +1,2 @@
+# spamfilter
+simple bayesian spamfilter
